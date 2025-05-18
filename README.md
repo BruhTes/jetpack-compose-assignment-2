@@ -2,6 +2,11 @@
 
 An Android application that fetches a list of TODO items from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/todos), displays them in a scrollable Jetpack Compose UI, and allows users to view details. It supports offline access using Room database caching and follows MVVM architecture with repository pattern.
 
+![image](https://github.com/user-attachments/assets/44133e22-c2e4-40b5-9622-7150381ad0b6)
+![image](https://github.com/user-attachments/assets/af4e5163-5bdd-4894-adc3-e169bb548b71)
+![image](https://github.com/user-attachments/assets/8e1a1bdc-34ed-46ee-899e-8ef371454257)
+
+
 ---
 
 ##  Features
